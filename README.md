@@ -1,1 +1,1 @@
-# petrol-diesel-price-analysis
+This project analyzes and visualizes petrol and diesel price trends in Pakistan from 2015 to 2028 using Python. It applies data preprocessing with Pandas and NumPy, creates clear visualizations with Matplotlib, and uses regression analysis to identify trends and predict future fuel prices. The project demonstrates practical skills in data analysis, visualization, and basic predictive modeling on real-world data.
